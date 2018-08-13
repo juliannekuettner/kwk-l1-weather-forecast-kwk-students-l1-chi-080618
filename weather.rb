@@ -1,13 +1,18 @@
 # Your methods should take in a hash as an argument - here's an example of what the hash will look like - the methods should take this hash as an argument and return the desired output. 
 
-# weather = {
-# 	:city => "New York",
+weather = {
+	:city => "New York",
 # 	:description => "Partly Cloudy",
 # 	:temperature_farenheit => 66.3
-# }
+}
+
+weather_two = {
+  :city => "San Francisco"
+}
 
 # 1. Complete the method below called location, that accepts a hash called weather as an argument so that it returns the value of city from the weather hash. 
 def location(weather)
+
 	
 end
 
